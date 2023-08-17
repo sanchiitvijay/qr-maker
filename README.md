@@ -1,4 +1,4 @@
-﻿# KaroKaro (To-Do List)
+﻿# qr-maker
 
 
 <br>
@@ -7,9 +7,8 @@
 
 <br>
 
-
-
-![Screenshot of a website.](/public/images/website_ex_1.png)
+![Screenshot of a website.](/assests/logo/img1.png)
+![Screenshot of a website.](/assests/logo/img2.png)
 
 <br>
 
@@ -43,10 +42,6 @@ node index.js
 
 <br>
 
-![Screenshot of a website.](/assests/logo/img1.png)
-![Screenshot of a website.](/assests/logo/img2.png)
-
-<br>
 
 ## Technologies Used
 
