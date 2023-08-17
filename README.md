@@ -37,7 +37,7 @@ npm install
 
 - Start the application using the following command:
 ```
-node index.js
+node app.js
 ```
 - Open your web browser and go to **http://localhost:3000** to access the to-do list application.
 - Enter the URL link for which you want to generate a QR code and click the "Generate" button.
