@@ -1,0 +1,14 @@
+<%- include('partials/header.ejs') %>
+
+
+<div class="responsive">
+    <div class="gallery center">
+        <%name=`images/${name}.png`; %>
+        <img src="<%=name%>" alt="qr" width="600" height="600">
+      <hr>
+      <div class="desc"><a href="<%=url%>"><%= url %></a></div>
+    </div>
+</div>
+
+
+<%- include('partials/footer.ejs') %>
